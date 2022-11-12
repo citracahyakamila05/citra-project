@@ -1,0 +1,93 @@
+a{
+	text-decoration: none;
+}
+{
+
+}
+body{
+	background-color: #d4f1f4;
+}
+
+
+.navigasi{
+	background-color: skyblue;
+	color: white;
+    font-size: 30px;
+    overflow: hidden;
+    list-style: none;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navigasi li {
+	float: left;
+	margin: 10px;
+}
+
+img{
+	width: 100px;
+}
+
+.P1 {
+	font-size: small;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.p1 {
+ font-family:'curve';
+ font-size: 20px;
+ text-align: center;	
+
+}
+
+.p2 {
+	font-size: 20px;
+}
+.gambar1{
+	width: 300px;
+	height: 300px;
+	border-radius: 50px;
+	
+}
+.gambar1:hover{
+	transform: scale(1.5);
+	
+
+}	
+.sosmed{
+	width: 50px;
+	height: 50px;
+	margin-left: 20px;
+}
+
+.copy{
+	text-align: center;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+	text-decoration: none;
+	color:blue;
+{
+a:hover{
+	text-decoration: underline;	
+}
+.h2{
+	background-color: green;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-bottom: 0px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+td{
+	padding: 5px;
+}	
+.nama{
+	background-color: aqua;
+}
+.nisn{
+	padding: 0px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 28px;
+	margin: 0px;
+}
+
+}
+
